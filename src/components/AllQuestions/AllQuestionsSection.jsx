@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Client, Databases } from "appwrite"; // Import Appwrite SDK
 import { questionmark } from "../../assets";
-import Line from "../others/line";
+import Line from "../others/Line";
 import Line2 from "../others/Line2";
 import QuestionItem from "./QuestionItem";
 import { ToastContainer, toast } from "react-toastify"; // Import Toast
