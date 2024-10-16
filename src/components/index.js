@@ -4,7 +4,7 @@ import HeroSection from "./Home/HeroSection";
 import ImagesRow from "./Home/ImagesRow";
 import Layout from "./Layout";
 import Navbar from "./Navbar/Navbar";
-import Line from "./others/line";
+import Line from "./others/Line";
 export {
     Navbar,
     Layout,
