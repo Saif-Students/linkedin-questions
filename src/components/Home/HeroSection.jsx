@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { questionmark } from "../../assets";
-import Line from "../others/line";
+import Line from "../others/Line";
 import Line2 from "../others/Line2";
 import Line3 from "../others/Line3";
 
