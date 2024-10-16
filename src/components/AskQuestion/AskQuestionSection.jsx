@@ -1,5 +1,5 @@
 import { questionmark } from "../../assets";
-import Line from "../others/line";
+import Line from "../others/Line";
 import Line2 from "../others/Line2";
 import QuestionForm from "./QuestionForm";
 function AskQuestionSection() {
