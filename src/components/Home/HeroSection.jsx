@@ -25,7 +25,7 @@ function HeroSection() {
           A community of excellent Developers
         </p>
 
-        <div>
+        <div class="flex flex-col sm:flex-row gap-4 item-center justify-center">
         <Link
           to="/ask-question"
           className="hover:scale-110 transition-transform lg:ml-5 text-xl md:text-2xl lg:text-3xl select-none uppercase font-hand-text font-bold bg-[#2A2A2A] rounded-full text-amber-50 px-4 py-2 inline-block"
